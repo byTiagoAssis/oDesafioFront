@@ -1,0 +1,24 @@
+
+
+ .perfil   {
+    border-radius: 50%;
+    width: 150%;
+}
+
+body {
+    background-color:  #a9d8f1;
+}
+.nbar {
+    background-color: #026aaa3a;
+}
+
+.jb {
+    background-color:#f5f49efd;
+    border-radius: 13%;
+}
+.jumbotron {
+    background-color: #a9d8f1;
+}
+.borda {
+    border-radius: 3%;
+}
